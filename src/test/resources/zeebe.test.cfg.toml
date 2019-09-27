@@ -1,0 +1,3 @@
+[[exporters]]
+id = "cloud-events"
+className = "io.zeebe.exporter.cloud.events.CloudEventsExporter"
